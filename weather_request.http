@@ -1,0 +1,26 @@
+### Richiesta per Catania
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Catania&lang=it
+
+### Richiesta per Acireale
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Acireale&lang=it
+
+### Richiesta per Misterbianco
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Misterbianco&lang=it
+
+### Richiesta per Paternò
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Paternò&lang=it
+
+### Richiesta per Gravina di Catania
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Gravina di Catania&lang=it
+
+### Richiesta per Mascalucia
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Mascalucia&lang=it
+
+### Richiesta per Adrano
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Adrano&lang=it
+
+### Richiesta per Nicolosi
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Nicolosi&lang=it
+
+### Richiesta per Aci Castello
+GET https://api.weatherapi.com/v1/current.json?key=baa67000bbc64e51a30100644252401&q=Aci Castello&lang=it
